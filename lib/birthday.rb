@@ -6,4 +6,8 @@
 
 def happy_birthday(birthday_kids)
   # add your code snippet here!
+  birthday_message= ""
+  birthday_kids.each do |name,age|
+  
+    
 end
